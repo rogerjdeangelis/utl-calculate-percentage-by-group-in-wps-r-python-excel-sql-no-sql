@@ -2,6 +2,7 @@
 
 Calculate percentage by group in wps r python excel sql no sql
 
+https://tinyurl.com/2r8ffh37
 https://github.com/rogerjdeangelis/utl-calculate-percentage-by-group-in-wps-r-python-excel-sql-no-sql
 
 https://stackoverflow.com/questions/77189587/scale-values-in-one-column-based-on-separate-column

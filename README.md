@@ -3,7 +3,8 @@ Calculate percentage by group in wps r python excel sql no sql
     %let pgm=utl-calculate-percentage-by-group-in-wps-r-python-excel-sql-no-sql;
 
     Calculate percentage by group in wps r python excel sql no sql
-
+    
+    https://tinyurl.com/2r8ffh37
     https://github.com/rogerjdeangelis/utl-calculate-percentage-by-group-in-wps-r-python-excel-sql-no-sql
 
     https://stackoverflow.com/questions/77189587/scale-values-in-one-column-based-on-separate-column
@@ -20,7 +21,7 @@ Calculate percentage by group in wps r python excel sql no sql
               select
                 project
                ,reaction
-               ,n
+               ,cnt
                ,100*cnt/sum(cnt) as percentage
               from
                 sd1.have

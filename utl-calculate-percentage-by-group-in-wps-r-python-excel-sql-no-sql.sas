@@ -25,7 +25,7 @@ https://stackoverflow.com/questions/77189587/scale-values-in-one-column-based-on
             sd1.have
           group
              by project
-        4 wps excel passthru
+        4 wps excel sql passthru
           Inplace update to workbook. MS access passthru sql to excel
           Interesting sql column functions like 'isnumeric'
           Check workbook before importing?

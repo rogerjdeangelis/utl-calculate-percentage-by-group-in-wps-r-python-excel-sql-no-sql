@@ -27,7 +27,7 @@ Calculate percentage by group in wps r python excel sql no sql
                 sd1.have
               group
                  by project
-            4 wps excel passthru
+            4 wps excel sql passthru
               Inplace update to workbook. MS access passthru sql to excel
               Interesting sql column functions like 'isnumeric'
               Check workbook before importing?
